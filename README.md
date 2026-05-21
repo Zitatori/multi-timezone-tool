@@ -3,7 +3,7 @@
 A professional-looking world time converter built with Streamlit and JavaScript.
 ## Screenshot
 
-![World Time Sync screenshot](assets/screenshot.png)
+![World Time Sync screenshot](assets/time_zone.png)
 ## Features
 
 - Card-style country UI
