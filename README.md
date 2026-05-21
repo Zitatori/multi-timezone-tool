@@ -1,7 +1,9 @@
 # World Time Cards - Streamlit
 
 A professional-looking world time converter built with Streamlit and JavaScript.
+## Screenshot
 
+![World Time Sync screenshot](assets/screenshot.png)
 ## Features
 
 - Card-style country UI
