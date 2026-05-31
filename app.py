@@ -200,9 +200,9 @@ const countries = [
   { name: "Switzerland", city: "Zurich", flag: "🇨🇭", tz: "Europe/Zurich" },
   { name: "Japan", city: "Tokyo", flag: "🇯🇵", tz: "Asia/Tokyo" },
   { name: "France", city: "Paris", flag: "🇫🇷", tz: "Europe/Paris" },
-{ name: "Ecuador", city: "Quito", flag: "🇪🇨", tz: "America/Guayaquil" },
+  { name: "Ecuador", city: "Quito", flag: "🇪🇨", tz: "America/Guayaquil" },
   { name: "New Zealand", city: "Auckland", flag: "🇳🇿", tz: "Pacific/Auckland" },
-  { name: "Vietnam", city: "Ho Chi Minh City", flag: "🇻🇳", tz: "Asia/Ho_Chi_Minh" }
+  { name: "Vietnam", city: "Ho Chi Minh City", flag: "🇻🇳", tz: "Asia/Ho_Chi_Minh" },
   { name: "USA", city: "California", flag: "🇺🇸", tz: "America/Los_Angeles" }
 ];
 
