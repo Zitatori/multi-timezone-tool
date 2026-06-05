@@ -203,7 +203,8 @@ const countries = [
   { name: "Ecuador", city: "Quito", flag: "🇪🇨", tz: "America/Guayaquil" },
   { name: "New Zealand", city: "Auckland", flag: "🇳🇿", tz: "Pacific/Auckland" },
   { name: "Vietnam", city: "Ho Chi Minh City", flag: "🇻🇳", tz: "Asia/Ho_Chi_Minh" },
-  { name: "USA", city: "California", flag: "🇺🇸", tz: "America/Los_Angeles" }
+  { name: "USA", city: "California", flag: "🇺🇸", tz: "America/Los_Angeles" },
+  { name: "India", city: "New Delhi", flag: "🇮🇳", tz: "Asia/Kolkata" }
 ];
 
 const select = document.getElementById("base-country");
