@@ -204,7 +204,8 @@ const countries = [
   { name: "New Zealand", city: "Auckland", flag: "🇳🇿", tz: "Pacific/Auckland" },
   { name: "Vietnam", city: "Ho Chi Minh City", flag: "🇻🇳", tz: "Asia/Ho_Chi_Minh" },
   { name: "USA", city: "California", flag: "🇺🇸", tz: "America/Los_Angeles" },
-  { name: "India", city: "New Delhi", flag: "🇮🇳", tz: "Asia/Kolkata" }
+  { name: "India", city: "New Delhi", flag: "🇮🇳", tz: "Asia/Kolkata" },
+  { name: "Bolivia", city: "La Paz", flag: "🇧🇴", tz: "America/La_Paz" }
 ];
 
 const select = document.getElementById("base-country");
