@@ -206,7 +206,13 @@ const countries = [
   { name: "USA", city: "California", flag: "🇺🇸", tz: "America/Los_Angeles" },
   { name: "India", city: "New Delhi", flag: "🇮🇳", tz: "Asia/Kolkata" },
   { name: "Bolivia", city: "La Paz", flag: "🇧🇴", tz: "America/La_Paz" },
-  { name: "United Arab Emirates", city: "Dubai", flag: "🇦🇪", tz: "Asia/Dubai" }
+  { name: "United Arab Emirates", city: "Dubai", flag: "🇦🇪", tz: "Asia/Dubai" },
+  {
+  name: "Mexico",
+  city: "Mexico City",
+  flag: "🇲🇽",
+  tz: "America/Mexico_City"
+}
   
 ];
 
